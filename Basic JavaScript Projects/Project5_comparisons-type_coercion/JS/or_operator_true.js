@@ -1,0 +1,1 @@
+document.write(12>10)||(1>4);
