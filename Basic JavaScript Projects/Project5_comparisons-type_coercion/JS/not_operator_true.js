@@ -1,5 +1,4 @@
 
 function not_Function(){
-    document.getElementById("Not").innerHTML=!(1>2);
-    
+    document.getElementById("Not").innerHTML=!(5>9);    
 }
